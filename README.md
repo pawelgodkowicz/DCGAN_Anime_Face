@@ -1,1 +1,3 @@
-# DCGAN_Anime_Face
+# Anime Faces- Deep Convolutional Generative Adversarial Network.
+
+
