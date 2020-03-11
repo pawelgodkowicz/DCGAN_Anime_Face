@@ -25,7 +25,7 @@ Dataset come from [Anime Faces - Kaggle](https://www.kaggle.com/soumikrakshit/an
 ![generated_image.png](https://github.com/pawelgodkowicz/DCGAN_Anime_Face/blob/master/results/09999_image.png?raw=true)
 
 ## Face sample in the training process
-![process](https://github.com/pawelgodkowicz/DCGAN_Anime_Face/blob/master/results/process.png?raw=true)
+![process](https://github.com/pawelgodkowicz/DCGAN_Anime_Face/blob/master/results/process_of_training.png?raw=true)
 
 ## Charts
 <img src="https://github.com/pawelgodkowicz/DCGAN_Anime_Face/blob/master/results/losses_g_d_01.png?raw=true" width="826" height="395">
