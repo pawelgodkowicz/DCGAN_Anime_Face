@@ -31,3 +31,6 @@ Dataset come from [Anime Faces - Kaggle](https://www.kaggle.com/soumikrakshit/an
 
 ## Training process as a GIF: (Images generated per every 50 epoch)
 ![gif](https://github.com/pawelgodkowicz/DCGAN_Anime_Face/blob/master/results/png_to_gif.gif?raw=true)
+
+## Face sample in the training process
+![process](https://github.com/pawelgodkowicz/DCGAN_Anime_Face/blob/master/results/process.png?raw=true)
