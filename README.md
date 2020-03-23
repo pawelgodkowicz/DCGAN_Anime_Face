@@ -13,24 +13,23 @@ The choice of topic was guided by enthusiasm for anime and interest from deep le
 - tqdm
 - imageio
 - glob
-
 # Dataset
 Dataset come from [Anime Faces - Kaggle](https://www.kaggle.com/soumikrakshit/anime-faces) and contains 21551 anime faces scraped from [Getchu.com](http://www.getchu.com/)
 ### Example of dataset 
-![real_image.png](https://github.com/pawelgodkowicz/DCGAN_Anime_Face/blob/master/results/real_image.png?raw=true)
+![real_image.png](https://github.com/pawelgodkowicz/DCGAN_Anime_Face/blob/master/outputs_results/data_faces.png?raw=true)
 
 # Results
 
 ## Generated Images
-![generated_image.png](https://github.com/pawelgodkowicz/DCGAN_Anime_Face/blob/master/results/09999_image.png?raw=true)
+![generated_image.png](https://github.com/pawelgodkowicz/DCGAN_Anime_Face/blob/master/outputs_results/gener_faces.png?raw=true)
 
 ## Face sample in the training process
-![process](https://github.com/pawelgodkowicz/DCGAN_Anime_Face/blob/master/results/process_of_training.png?raw=true)
+![process](https://github.com/pawelgodkowicz/DCGAN_Anime_Face/blob/master/outputs_results/process_faces.png?raw=true)
 
 ## Charts
-<img src="https://github.com/pawelgodkowicz/DCGAN_Anime_Face/blob/master/results/losses_g_d_01.png?raw=true" width="826" height="395">
-<img src="https://github.com/pawelgodkowicz/DCGAN_Anime_Face/blob/master/results/losses_g_d_02.png?raw=true" width="826" height="395">
-<img src="https://github.com/pawelgodkowicz/DCGAN_Anime_Face/blob/master/results/losses_d.png?raw=true" width="826" height="395">
+<img src="https://github.com/pawelgodkowicz/DCGAN_Anime_Face/blob/master/outputs_results/gan_disc_loss.png?raw=true" width="826" height="395">
+<img src="https://github.com/pawelgodkowicz/DCGAN_Anime_Face/blob/master/outputs_results/gan_disc_500.png?raw=true" width="826" height="395">
+<img src="https://github.com/pawelgodkowicz/DCGAN_Anime_Face/blob/master/outputs_results/disc_f_r_loss.png?raw=true" width="826" height="395">
 
 ## Training process as a GIF: (Images generated per every 50 epoch)
-![gif](https://github.com/pawelgodkowicz/DCGAN_Anime_Face/blob/master/results/png_to_gif.gif?raw=true)
+![gif](https://github.com/pawelgodkowicz/DCGAN_Anime_Face/blob/master/outputs_results/png_to_gif.gif?raw=true)
